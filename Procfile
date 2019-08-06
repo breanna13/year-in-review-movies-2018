@@ -1,0 +1,1 @@
+web: gunicorn yir_app:app
